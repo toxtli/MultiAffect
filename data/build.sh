@@ -1,4 +1,3 @@
-#!/usr/bin/bash
 cat Face_Visual.pkl.* > Face_Visual.pkl
 rm Face_Visual.pkl.*
 cat Face_Visual_Test.pkl.* > Face_Visual_Test.pkl
