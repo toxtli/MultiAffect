@@ -1,4 +1,4 @@
-# MultiAffect
+# MultiAffect: Reproducible Research Framework for Multimodal Video Categorization and Regression Tasks
 
 ## Description
 
