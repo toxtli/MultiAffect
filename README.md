@@ -2,7 +2,7 @@
 
 ## Description
 
-This framework consists in a Jupyter notebook that has a ready-to-run multimodal video classifier that you can find here http://bit.ly/multimodal . The notebook has the structure of a generic research paper and the code is in the "Perform experiments" section. It contains the commands to set up the platform, run the feature extraction, train, and evaluate the model.
+This framework consists in a Jupyter notebook that has a ready-to-run multimodal video classifier that you can find here http://bit.ly/multiaffect . The notebook has the structure of a generic research paper and the code is in the "Perform experiments" section. It contains the commands to set up the platform, run the feature extraction, train, and evaluate the model.
 
 ## Abstract
 
